@@ -43,7 +43,7 @@
 - 🎓 **Education:** B.Tech in Computer Science and Engineering from **Pragati Engineering College** (2022 – 2026).
 - 🛠️ **Core Focus:** Building high-performance, accessible web applications and Chrome extensions with modern React and JavaScript/TypeScript ecosystems.
 - 🎯 **Problem Solving:** Actively practicing algorithms on LeetCode and HackerRank.
-- 📫 **How to reach me:** [alluriakshay878@gmail.com](mailto:alluriakshay878@gmail.com) or [+91 73866 60463](tel:+917386660463).
+- 📫 **How to reach me:** [alluriakshay878@gmail.com](mailto:alluriakshay878@gmail.com) 
 
 ---
 
