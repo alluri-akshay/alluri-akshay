@@ -11,7 +11,7 @@
 <p align="center">
   📍 Rajahmundry, India &nbsp;|&nbsp; 
   💼 Open to exciting opportunities &nbsp;|&nbsp; 
-  🌐 <a href="https://github.com/alluri-akshay/portfolio">Portfolio</a>
+  🌐 <a href="https://alluri-akshay.vercel.app/">Portfolio</a>
 </p>
 
 <!-- Social Badges -->
